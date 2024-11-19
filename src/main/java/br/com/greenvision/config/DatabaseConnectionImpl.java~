@@ -1,0 +1,4 @@
+package br.com.greenvision.config;
+
+public class DatabaseConnectionImpl {
+}
